@@ -29,8 +29,8 @@ button {
     flex: 1;
     padding: 35px;
     margin: 2px;
-    width: 0px;
-    height: 0px;
+    width: 25px;
+    height: 25px;
     text-align: center;
     align-items: center;
     justify-content: center;
